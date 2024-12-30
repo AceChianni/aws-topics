@@ -14,7 +14,7 @@
 - **Wildcard (`*`)**: Allows flexible matching for resource paths or actions.
 
 ## Screenshot
-![Bucket Permissions](path/to/screenshot.png)
+![Bucket Permissions](screenshots/permissions.jpg)
 
 ## Public URL
 [Image URL](https://acefirstbucket.s3.us-east-2.amazonaws.com/nana.jpg)
